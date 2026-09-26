@@ -33,6 +33,4 @@ WebTech brings together a growing collection of web applications built to solve 
 CraftSound. Task Manager. MyDM's.
 And this is just the beginning.
 
-DO NOT DISTRIBUTE
-THIS IS NOT OPEN SOURCED
-DO NOT OPEN UP THE SOURCE CODE TO THE PUBLIC
+Hope you like it!
